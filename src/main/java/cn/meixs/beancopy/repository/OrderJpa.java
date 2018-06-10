@@ -1,4 +1,4 @@
-package cn.meixs.cn.beancopy.repository;
+package cn.meixs.beancopy.repository;
 
 import java.math.BigDecimal;
 import java.util.Date;

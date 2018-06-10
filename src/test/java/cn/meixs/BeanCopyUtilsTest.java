@@ -6,7 +6,7 @@ import cn.meixs.beancopy.domain.Order;
 import cn.meixs.beancopy.domain.OrderItem;
 import cn.meixs.beancopy.domain.OrderStatus;
 import cn.meixs.beancopy.domain.Phone;
-import cn.meixs.cn.beancopy.repository.OrderJpa;
+import cn.meixs.beancopy.repository.OrderJpa;
 import org.junit.Before;
 import org.junit.Test;
 

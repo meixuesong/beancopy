@@ -2,10 +2,10 @@ package cn.meixs;
 
 import cn.meixs.beancopy.domain.Order;
 import cn.meixs.beancopy.domain.OrderItem;
-import cn.meixs.cn.beancopy.repository.CustomerJpa;
-import cn.meixs.cn.beancopy.repository.OrderItemJpa;
-import cn.meixs.cn.beancopy.repository.OrderJpa;
-import cn.meixs.cn.beancopy.repository.PhoneJpa;
+import cn.meixs.beancopy.repository.CustomerJpa;
+import cn.meixs.beancopy.repository.OrderItemJpa;
+import cn.meixs.beancopy.repository.OrderJpa;
+import cn.meixs.beancopy.repository.PhoneJpa;
 import org.apache.commons.beanutils.PropertyUtils;
 
 import java.util.ArrayList;

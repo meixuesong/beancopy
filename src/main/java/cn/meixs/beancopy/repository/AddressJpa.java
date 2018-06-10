@@ -1,4 +1,4 @@
-package cn.meixs.cn.beancopy.repository;
+package cn.meixs.beancopy.repository;
 
 public class AddressJpa {
     private String province;
